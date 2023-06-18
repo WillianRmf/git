@@ -1,2 +1,2 @@
 # vaquinha
-Projeto em que aprendo a usar o Git
+Projeto criado com o intuito de treinar a linguagem JavaScript.
